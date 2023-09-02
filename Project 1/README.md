@@ -1,6 +1,6 @@
 ## JSON-RPC examples (JS)
 
 ```
-node server
-node client
+npm run start:server
+npm run start:client
 ```

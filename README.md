@@ -6,3 +6,4 @@
 - 3 - JSON-RPC with HTTP server (JS)
 - 4 - JSON-RPC with jayson (JS)
 - 5 - JSON-RPC with json-rpc-2.0 (JS)
+- 6 - JSON-RPC with json-rpc-2.0 (JS)

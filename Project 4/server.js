@@ -7,6 +7,7 @@ const server = jayson.server({
   },
 });
 
+//server.tcp().listen(3000, () => {
 server.http().listen(3000, () => {
   console.log('Server is running on port 3000');
 });

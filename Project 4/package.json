@@ -1,0 +1,15 @@
+{
+  "name": "json-rpc-example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "server": "node server",
+    "client": "node client"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jayson": "^4.1.0"
+  }
+}
